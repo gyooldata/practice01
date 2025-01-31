@@ -1,5 +1,6 @@
 
 import React, { useState } from 'react';
+import './App.css'
 
 const members = [
     { name: "박규리", role: "팀원" },
